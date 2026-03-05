@@ -94,3 +94,14 @@ src/
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anonymous/public key |
 | `SUPABASE_SERVICE_ROLE_KEY` | Supabase service role (server-only) |
 | `NEXT_PUBLIC_APP_URL` | Public URL of your app |
+
+
+
+
+
+https://swa-two.vercel.app/
+
+
+
+
+
